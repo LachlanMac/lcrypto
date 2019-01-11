@@ -48,7 +48,6 @@ func Decrypt(value string) (string, string){
 }
 
 func Encrypt(value string) string{
-	fmt.Println("Encoding", value)
 
 	encoded := ""
 	checksum := 0
