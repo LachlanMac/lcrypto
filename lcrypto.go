@@ -1,7 +1,6 @@
 package lcrypto
 
 import (
-	"fmt"
 	"strconv"
 	"unicode/utf8"
 	"strings"
